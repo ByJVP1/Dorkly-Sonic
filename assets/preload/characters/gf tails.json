@@ -1,14 +1,14 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-9
 			],
-			"loop": false,
 			"anim": "danceLeft",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"name": "bop",
 			"indices": [
 				30,
 				0,
@@ -29,14 +29,14 @@
 			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-9
 			],
-			"loop": false,
 			"anim": "danceRight",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"name": "bop0",
 			"indices": [
 				15,
 				16,
@@ -57,17 +57,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/tails2",
 	"position": [
-		-160,
-		290
+		-10,
+		370
 	],
-	"healthicon": "gf",
+	"healthicon": "dorklytails",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		254,
+		119,
+		48
 	],
 	"camera_position": [
 		-133,

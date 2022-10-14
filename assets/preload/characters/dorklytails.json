@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dorkly idle"
+		},
+		{
+			"offsets": [
+				-12,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dorkly left"
+		},
+		{
+			"offsets": [
+				77,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dorkly down"
+		},
+		{
+			"offsets": [
+				0,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dorkly up"
+		},
+		{
+			"offsets": [
+				64,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dorkly right"
+		},
+		{
+			"offsets": [
+				-12,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "dorkly left"
+		},
+		{
+			"offsets": [
+				77,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "dorkly down"
+		},
+		{
+			"offsets": [
+				-2,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "dorkly up"
+		},
+		{
+			"offsets": [
+				64,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "dorkly right"
+		},
+		{
+			"offsets": [
+				27,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "calc",
+			"indices": [],
+			"name": "dork anim calc"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Tails_assets",
+	"position": [
+		10,
+		290
+	],
+	"healthicon": "dorklytails",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		119,
+		48
+	],
+	"camera_position": [
+		260,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
