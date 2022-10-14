@@ -1,0 +1,76 @@
+{
+	"storyName": "socktheedge",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"For Hire",
+			"dorkly",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"idot",
+			"dorklytails",
+			[
+				255,
+				155,
+				0
+			]
+		],
+		[
+			"no-more-chance",
+			"dorklymario",
+			[
+				135,
+				0,
+				0
+			]
+		],
+		[
+			"washedup",
+			"dorkly",
+			[
+				0,
+				113,
+				173
+			]
+		],
+		[
+			"vine-depths-zone",
+			"dorkly",
+			[
+				0,
+				193,
+				253
+			]
+		],
+		[
+			"mushroom-plains",
+			"dorkly",
+			[
+				0,
+				193,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "slanky"
+}
